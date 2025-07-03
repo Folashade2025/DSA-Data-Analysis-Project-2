@@ -21,7 +21,8 @@ The objective is to use SQL queries to ilustrate data extraction, aggregation, a
 ---
 ### Tools Used 2:
 Microsoft SQL Serve 
-[DOWNLOAD HERE] ()
+[DOWNLOAD HERE] ()[DSA_SQL_FP.txt](https://github.com/user-attachments/files/21047930/DSA_SQL_FP.txt)
+
 
 - Use Case: Perfect for students, data analysts, or job seekers who want to show off their SQL prowess using real-world business scenarios and data exploration methods.
 ---
