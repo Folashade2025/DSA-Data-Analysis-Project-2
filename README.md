@@ -23,7 +23,7 @@ The objective is to use SQL queries to ilustrate data extraction, aggregation, a
 Microsoft SQL Serve 
 [DOWNLOAD HERE] ()
 
--Use Case: Perfect for students, data analysts, or job seekers who want to show off their SQL prowess using real-world business scenarios and data exploration methods.
+- Use Case: Perfect for students, data analysts, or job seekers who want to show off their SQL prowess using real-world business scenarios and data exploration methods.
 ---
 ### Data Source 2:
 - KMS_Table: Simulated retail transactions
