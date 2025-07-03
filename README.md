@@ -20,8 +20,9 @@
 The objective is to use SQL queries to illustrate data extraction, aggregation, and business intelligence. In order to find business insights about sales, customers, shipping, and regional performance, it offers a thorough SQL-based analysis of a fictitious retail dataset from Kultra Mega Stores (KMS). Real-world business concerns including determining the most lucrative client categories, examining return trends, assessing regional sales discrepancies, and determining shipping cost effectiveness are all addressed by the project using raw sales data. The included SQL queries are intended to show off real-world uses of subqueries, aggregation functions, GROUP BY, and JOIN, providing a solid basis for corporate information and decision-making.
 ---
 ### Tools Used 2:
-Microsoft SQL Serve  
-Use Case: Perfect for students, data analysts, or job seekers who want to show off their SQL prowess using real-world business scenarios and data exploration methods.
+Microsoft SQL Serve  [DOWNLOAD HERE] ([Uploading DSA_SQL_FP.sql…])
+
+-Use Case: Perfect for students, data analysts, or job seekers who want to show off their SQL prowess using real-world business scenarios and data exploration methods.
 ---
 ### Data Source 2:
 - KMS_Table: Simulated retail transactions
